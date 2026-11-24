@@ -1,0 +1,2 @@
+This is Git practical.
+Learning Git reset command.
